@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything you feel is appropriate to be asked
 - 📫 How to reach me: oriakhicolls01@gmail.com
 - 😄 Pronouns: Pay me, let's build
-- ⚡ Fun fact: I am just me, me is I
+- ⚡ Fun fact: I am just me, me is I.
 -->
