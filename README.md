@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything you feel is appropriate.
 - 📫 How to reach me: oriakhicolls01@gmail.com
 - 😄 Pronouns: let's build
-- ⚡ Fun fact: Let love lead.
+
