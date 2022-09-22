@@ -9,4 +9,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: oriakhicolls01@gmail.com
 
 
+ A message was sent, and ended with 4 dots. But only delivered 3 dots, how come? 👀
+
+
 
