@@ -15,7 +15,7 @@ I'm a product-driven software engineer with a passion for building products that
 - **Backend:** NodeJs, Golang, PHP
 - **Chrome Extensions:** Vue, React
 - **Caching:** Redis  
-  *(Additional caching solutions can be integrated as needed.)*
+ 
 
 ## My Journey
 
