@@ -4,7 +4,7 @@ I'm a product-driven software engineer with a passion for building products that
 
 ## What I Do
 
-- **Software Studio:** At canvas-and-pixels, we specialize in creating high-quality software solutions.
+- **Software Studio:** At  **Canvas and Pixels**, we specialize in creating high-quality software solutions.
 - **Product Development:** I build products that prioritize user experience and drive value.
 - **Automation & AI:** I love developing automation systems, especially those leveraging AI to streamline and innovate processes.
 
@@ -19,6 +19,6 @@ I'm a product-driven software engineer with a passion for building products that
 
 ## My Journey
 
-I'm on an exciting path to becoming a successful Indie Developer, and I'm determined to take **Canvas and Pixels** past the moon. 🚀
+I'm on an exciting path to becoming a successful Indie Developer, and I'm determined to take **Canvas and Pixels** to Mars. 🚀
 
 Let's connect and build something amazing together!
