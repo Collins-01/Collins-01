@@ -12,9 +12,9 @@ I'm a product-driven software engineer with a passion for building products that
 
 - **Mobile & Desktop Apps:** Flutter
 - **Web Development:** Vue, React
-- **Backend:** NodeJs, Golang, PHP
+- **Backend:** Java, Go, NodeJs, PHP
 - **Chrome Extensions:** Vue, React
-- **Caching:** Redis  
+ 
  
 
 ## My Journey
