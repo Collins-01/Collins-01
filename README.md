@@ -10,10 +10,10 @@ I'm a product-driven software engineer with a passion for building products that
 
 ## Tech Stacks
 
-- **Mobile & Desktop Apps:** Flutter
-- **Web Development:** Vue, React
+- **Mobile & Desktop Apps:** Flutter 🌿
+- **Web Development:** Next, React
 - **Backend:** Java, Go, NodeJs, PHP
-- **Chrome Extensions:** Vue, React
+- **Chrome Extensions:**  React
  
  
 
@@ -21,4 +21,4 @@ I'm a product-driven software engineer with a passion for building products that
 
 I'm on an exciting path to becoming a successful Indie Developer, and I'm determined to take **Canvas and Pixels** to Mars. 🚀
 
-Let's connect and build something amazing together!
+There are no limits. There are only plateaus....
