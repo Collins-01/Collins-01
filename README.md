@@ -11,7 +11,7 @@ I'm a product-driven software engineer with a passion for building products that
 ## Tech Stacks
 
 - **Mobile & Desktop Apps:** Flutter 🌿
-- **Web Development:** Next, React
+- **Web Development:** Next, React, Angular
 - **Backend:** Java, Go, NodeJs, PHP
 - **Chrome Extensions:**  React
  
