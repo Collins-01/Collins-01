@@ -1,24 +1,25 @@
-# Hi, I'm Collins 👋
+# 👋 Hi, I’m Collins
 
-I'm a product-driven software engineer with a passion for building products that people love. I run a software studio called **Canvas and Pixels** where we design, build, and maintain innovative software products.
+Product-driven software engineer focused on building scalable, user-centric applications across mobile, web, and backend systems.
 
-## What I Do
+## 🧠 What I Do
+- Build and ship end-to-end products (idea → production)
+- Develop high-performance mobile and web apps
+- Design clean, scalable backend APIs
+- Create automation and AI-powered solutions
 
-- **Software Studio:** At  **Canvas and Pixels**, we specialize in creating high-quality software solutions.
-- **Product Development:** I build products that prioritize user experience and drive value.
-- **Automation & AI:** I love developing automation systems, especially those leveraging AI to streamline and innovate processes.
+## 🛠 Tech Stack
+- **Mobile:** Flutter, React Native  
+- **Web:** Next.js, React, Angular  
+- **Backend:** Node.js, Go, Java, PHP  
+- **Extensions:** React (Chrome)
 
-## Tech Stacks
+## 🎯 Focus
+- Clean, maintainable code  
+- Strong UX and performance  
+- Ownership, delivery, and impact  
 
-- **Mobile & Desktop Apps:** Flutter 🌿
-- **Web Development:** Next, React, Angular
-- **Backend:** Java, Go, NodeJs, PHP
-- **Chrome Extensions:**  React
- 
- 
+## 🚀 Journey
+On a focused path as an Indie Developer—shipping real products and continuously leveling up.
 
-## My Journey
-
-I'm on an exciting path to becoming a successful Indie Developer, and I'm determined to take **Canvas and Pixels** to Mars. 🚀
-
-There are no limits. There are only plateaus....
+*There are no limits. Only plateaus.*
